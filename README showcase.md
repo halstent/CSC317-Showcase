@@ -1,5 +1,7 @@
 # Wave Physics in a Mass-Spring System
 
+# GitHub Repository link: https://github.com/halstent/CSC317-Showcase
+
 ## Personal Information
 - Name - Halsten Tilk
 - UtorID - tilkhals
