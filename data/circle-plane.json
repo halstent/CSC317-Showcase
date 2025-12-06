@@ -1,0 +1,26 @@
+{
+  "obj": "circle-plane.obj",
+  "b": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "k": 100.0,
+  "m": 1.0,
+  "drivers": [
+    {
+      "vertex": 1,
+      "amplitude": 0.6,
+      "frequency": 0.15,
+      "phase": 0.0,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

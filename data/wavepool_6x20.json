@@ -1,0 +1,81 @@
+{
+  "obj": "wavepool_6x20.obj",
+  "b": [
+    20,
+    40,
+    60,
+    80,
+    100,
+    120
+  ],
+  "k": 100.0,
+  "m": 1.0,
+  "drivers": [
+    {
+      "vertex": 1,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.0,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "vertex": 21,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.1,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "vertex": 41,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.2,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "vertex": 61,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.30000000000000004,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "vertex": 81,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.4,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "vertex": 101,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.5,
+      "direction": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

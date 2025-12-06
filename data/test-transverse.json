@@ -1,0 +1,15 @@
+{
+  "obj": "test-transverse.obj",
+  "b": [ 10 ],
+  "k": 1e2,
+  "m": 1,
+  "drivers": [
+    {
+      "vertex": 1,
+      "amplitude": 2,
+      "frequency": 0.453,
+      "phase": 0,
+      "direction": [ 0, 1, 0 ]
+    }
+  ]
+}

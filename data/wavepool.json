@@ -1,0 +1,129 @@
+{
+  "obj": "wavepool.obj",
+  "b": [
+    50,
+    100,
+    150,
+    200,
+    250,
+    300,
+    350,
+    400,
+    450,
+    500
+  ],
+  "k": 100.0,
+  "m": 1.0,
+  "drivers": [
+    {
+      "vertex": 1,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.0,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 51,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.1,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 101,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.2,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 151,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.30000000000000004,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 201,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.4,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 251,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.5,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 301,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.6000000000000001,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 351,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.7000000000000001,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 401,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.8,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "vertex": 451,
+      "amplitude": 0.5,
+      "frequency": 0.2,
+      "phase": 0.9,
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

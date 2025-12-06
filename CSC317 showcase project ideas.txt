@@ -1,0 +1,11 @@
+CSC317 showcase notes
+
+IDEA:
+Expansion on a8, rendering more complex physical systems (a physically accurate atom, a double pendulum)
+
+STEPS:
+Same setup steps as assignment 8
+Copy entire solution to a new showcase folder
+Rewrote main file to only use sparse matrices
+Rewrote read_json.h to include obj files specifying individual vector masses and individual spring coefficients
+Rewrote to create K matrix like M matrix in precomputation

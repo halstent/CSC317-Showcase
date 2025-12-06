@@ -1,0 +1,6 @@
+{
+  "obj": "double-pendulum.obj",
+  "b": [1],
+  "k": 1e3,
+  "m": [ 1, 0.5, 5 ]
+}
